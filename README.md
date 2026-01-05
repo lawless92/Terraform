@@ -1,1 +1,1 @@
-En este proyecto se utiliza Iac con Terraform para la creacio  de los siguientes recursos en  AWs
+En este proyecto se utiliza Iac con Terraform para la creacion de los siguientes recursos en  AWs
